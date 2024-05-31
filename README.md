@@ -1,0 +1,1 @@
+The calculator is made by using Tkinter library . Tkinter allows us to create interactive GUI . Here in all the numeric are involved with all the operators in it . We can further try to expand it by using different functions .
